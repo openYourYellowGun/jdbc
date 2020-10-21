@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="D:/GIT" vcs="Git" />
     <mapping directory="D:/GIT/jdbc-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/01_jdbc" vcs="Git" />
   </component>
 </project>
